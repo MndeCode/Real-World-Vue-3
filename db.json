@@ -1,0 +1,37 @@
+{
+  "Events": [
+    {
+      id: 5928101,
+      category: "Animal Welfare",
+      title: "Cat Adoption Day",
+      description: "Find your new feline friend at this event.",
+      location: "Meow Town",
+      date: "January 28, 2022",
+      time: '12H00',
+      petsAllowed: true,
+      organiser: 'Thobani Shabalala'
+    },
+    {
+      id: 4582797,
+      category: "Food",
+      title: "Community Gardening",
+      description: "Join us as we tend to the community edible plants.",
+      location: "Flora City",
+      date: "March 14, 2022",
+      time: '10H00',
+      petsAllowed: true,
+      organiser: 'Mndeni Magagula'
+    },
+    {
+      id: 8419988,
+      category: "Sustainability",
+      title: "Beach Cleanup",
+      description: "Help pick up trash along the shore.",
+      location: "Playa Del Carmen",
+      date: "July 22, 2022",
+      time: '11H00',
+      petsAllowed: false,
+      organiser: 'Amber B'
+    },
+  ]
+}
